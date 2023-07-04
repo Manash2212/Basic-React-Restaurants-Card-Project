@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Basic-React-Restaurants-Card-Project/static/css/main.2b723825.css",
+    "main.js": "/Basic-React-Restaurants-Card-Project/static/js/main.0d4ffaad.js",
+    "index.html": "/Basic-React-Restaurants-Card-Project/index.html",
+    "main.2b723825.css.map": "/Basic-React-Restaurants-Card-Project/static/css/main.2b723825.css.map",
+    "main.0d4ffaad.js.map": "/Basic-React-Restaurants-Card-Project/static/js/main.0d4ffaad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b723825.css",
+    "static/js/main.0d4ffaad.js"
+  ]
+}
